@@ -2,7 +2,7 @@ This is the group project.
 
 
 Adrian:
-
+Hello
 
 
 Joel:
