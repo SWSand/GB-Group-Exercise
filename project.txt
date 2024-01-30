@@ -10,3 +10,5 @@ Joel:
 
 
 Jose:
+
+I will be adding a python file with a basic function.
